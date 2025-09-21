@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my personal webpage!"
+title: "Xavier Rodrigues -- Astrophysicist"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm an astrophysicist working on active black holes, neutrinos, and cosmic rays. 
+## Understanding active black holes with neutrinos and multi-messenger astronomy
 
 [AM³](https://am3.readthedocs.io/en/latest/) is a word-leading astroparticle simulation framework, now available as open-source Python software.
 
