@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an astrophysicist working on active black holes, neutrinos, and cosmic rays. 
 
-[AM$^3$](https://am3.readthedocs.io/en/latest/) is a word-leading astroparticle simulation framework, now available as open-source Python software.
+[AM³](https://am3.readthedocs.io/en/latest/) is a word-leading astroparticle simulation framework, now available as open-source Python software.
 
 Getting started
 ======
