@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Understanding active black holes with neutrinos and multi-messenger astronomy
+## Understanding active black holes with neutrinos and numerical modeling
 
 I am a developer of [AM³](https://am3.readthedocs.io/en/latest/), a word-leading astroparticle simulation framework, available as open-source Python software.
 
