@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Theoretical Physics** (2019) – Humboldt University of Berlin, Germany  
+  Advisor: [Walter Winter](https://www-zeuthen.desy.de/~wwinter/)  
+  [Link to my thesis](https://edoc.hu-berlin.de/items/92aae1d4-524d-45b4-a1e4-419a6a7b78c8) on cosmic rays and neutrinos from active galaxies
+
+* **M.Sc. in Nuclear and Particle Physics** (2016) – University of Lisbon, Portugal
+
+* **B.Sc. in Physics** (2010) – University of Coimbra, Portugal
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Apr-May 2025** – Visiting scientist at the National Cheng-Kung University (NCKU) in Tainan, Taiwan  
+  National Science and Technology Council of Taiwan Grant 113-2111-M-006-002
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **2023-2025** – Postdoc at the [European Southen Observatory](https://www.eso.org/sci/meetings/2024/SummerResearch2024.html) in Garching by Munich, Germany with [Paolo Padovani](https://www.eso.org/~ppadovan/padovani.html) 
 
+* **2021-2023** – Postdoc at the Ruhr University Bochum, Germany with [Anna Franckowiak](https://people.astro.ruhr-uni-bochum.de/afranck/group.html) 
+
+* **2019-2021** – Postdoc at the [German Electron Synchrotron DESY]([https://people.astro.ruhr-uni-bochum.de/afranck/group.html](https://astroparticle-physics.desy.de/) in Zeuthen, Germany
+
+* **2016-2019** – Graduate researcher at DESY, working on the [NEUCOS](https://www.zeuthen.desy.de/~wwinter/) project, ERC CoG of PI Walter Winter)
+
+
+  
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See my [publication page](publications) and the complete list on [iNSPIRE](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
   
-Talks
+[Talks](talks)
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+[Teaching](teaching)
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
