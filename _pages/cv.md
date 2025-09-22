@@ -36,10 +36,10 @@ Work experience
   
 Publications
 ======
-See my [publication page](publications) and the complete list on [iNSPIRE](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
+See my [publications page](https://xrod.github.io/publications/) and the complete list on [iNSPIRE](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
   
-[Talks](talks)
+[Talks]([talks](https://xrod.github.io/talks/)
 ======
   
-[Teaching](teaching)
+[Teaching]([teaching](https://xrod.github.io/teaching/)
 ======
