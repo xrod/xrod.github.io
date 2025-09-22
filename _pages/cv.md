@@ -38,8 +38,8 @@ Publications
 ======
 See my [publications page](https://xrod.github.io/publications/) and the complete list on [iNSPIRE](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
   
-[Talks]([talks](https://xrod.github.io/talks/)
+[Talks](https://xrod.github.io/talks/)
 ======
   
-[Teaching]([teaching](https://xrod.github.io/teaching/)
+[Teaching](https://xrod.github.io/teaching/)
 ======
