@@ -30,16 +30,24 @@ Work experience
 
 * **2019-2021** – Postdoc at the [German Electron Synchrotron DESY]([https://people.astro.ruhr-uni-bochum.de/afranck/group.html](https://astroparticle-physics.desy.de/) in Zeuthen, Germany
 
-* **2016-2019** – Graduate researcher at DESY, working on the [NEUCOS](https://www.zeuthen.desy.de/~wwinter/) project, ERC CoG of PI Walter Winter)
+* **2016-2019** – Graduate researcher at DESY, working on the [NEUCOS](https://www.zeuthen.desy.de/~wwinter/) project (ERC CoG, PI Walter Winter)
 
 
   
-Publications
+[Publications](https://xrod.github.io/publications/)
 ======
-See my [publications page](https://xrod.github.io/publications/) and the complete list on [iNSPIRE](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
+See also my complete publication list on [iNSPIRE](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
   
 [Talks](https://xrod.github.io/talks/)
 ======
   
 [Teaching](https://xrod.github.io/teaching/)
 ======
+
+Other duties
+======
+
+I have served as reviewer of 20 manuscripts for *Physical Review Letters*, *The Astrophysical Journal*, *Nature Communications*, *Astronomy &
+Astrophysics*, *Monthly Noteices of the Royal Astronomical Society, and *Journal of Cosmology and Astroparticle Physics*.
+
+I have also been invited as proposal reviewer by the Polish National Science Center (NCN).
