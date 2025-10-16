@@ -5,15 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-<div class="wordwrap">
-  You can find all my articles on
-  <a href="{{ site.author.googlescholar }}">my Scholar profile</a> and on [my iNSPIRE page](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
-</div>
-{% endif %}
-
-{% include base_path %}
-
+You can find all my articles on my [Scholar profile](https://scholar.google.com/citations?user=_au_HbkAAAAJ&hl=en) and my [iNSPIRE page](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
 
 ### Selected publications 
 
