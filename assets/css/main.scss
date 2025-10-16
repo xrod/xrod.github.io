@@ -1,17 +1,4 @@
-/* hide any theme toggle control */
-.theme-toggle,
-.js-theme-toggle,
-button[aria-label="Toggle theme"] { display: none !important; }
 
-/* force light colors regardless of OS or JS switching */
-:root { color-scheme: light; }
-@media (prefers-color-scheme: dark) {
-  :root { color-scheme: light; }
-}
-/* neutralize any JS-applied dark mode attribute/class */
-html[data-theme="dark"], .dark {
-  color-scheme: light;
-}
 /*
  * This file controls what is imported from /_sass
  *
