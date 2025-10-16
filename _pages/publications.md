@@ -16,7 +16,7 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
   Cerruti et al., accepted in Astrophys. J. Suppl.
 
 - [**Time-dependent modelling of short-term variability in the TeV-blazar VER J0521+211 during the major flare in 2020**](https://arxiv.org/pdf/2412.15836)
-  with the MAGIC Collaboration (Abe et al., 2025) [**Astron. Astrophys.** 694, A308](https://doi.org/10.1051/0004-6361/202451378)
+  with the MAGIC Collaboration (Abe et al., 2025) [*Astron. Astrophys.* 694, A308](https://doi.org/10.1051/0004-6361/202451378)
   
 - [**The Spectra of IceCube Neutrino Candidate Sources V: Modeling and interpretation of multiwavelength and neutrino data**](https://arxiv.org/pdf/2406.06667)  
   X. Rodrigues, M. Karl, P. Padovani, P. Giommi, S. Paiano, R. Falomo, M. Petropoulou, F. Oikonomou (2024) [*Astron. Astrophys.* 689, A147](https://www.aanda.org/articles/aa/full_html/2024/09/aa50592-24/aa50592-24.html)
@@ -31,7 +31,7 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
   S. Salvatore, B. Eichmann, X. Rodrigues, R.-J. Dettmar, J. Becker Tjus (2024) [*Astron. Astrophys.* 687, A139](https://www.aanda.org/articles/aa/full_html/2024/07/aa48447-23/aa48447-23.html)
 
 - [**Differences between PAO and TA spectra: Systematics or indication of a local astrophysical source?**](https://arxiv.org/pdf/2208.12274)
-  P. Plotko, A. van Vliet, X. Rodrigues, W. Winter (2023) [Astrophys.J. 953 2, 129](https://doi.org/10.3847/1538-4357/acdf59) 
+  P. Plotko, A. van Vliet, X. Rodrigues, W. Winter (2023) [*Astrophys. J.* 953 2, 129](https://doi.org/10.3847/1538-4357/acdf59) 
 
 - [**Multiwavelength and Neutrino Emission from Blazar PKS 1502+106**](https://arxiv.org/pdf/2009.04026)
   X. Rodrigues, S. Garrappa, S. Gao, V. Paliya, A. Franckowiak, W. Winter (2021) [*Astrophys. J.* 912, 54](https://iopscience.iop.org/article/10.3847/1538-4357/abe87b)
