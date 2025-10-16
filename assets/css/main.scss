@@ -1,31 +1,47 @@
 ---
 ---
-@charset "utf-8";
 
-/* Import the Minimal Mistakes skin and core styles */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
+/*
+* This file controls what is imported from /_sass
+*
+* Note that the files are processed in the order they are imported, so they are partly
+  sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+*/
 
-/* ✅ Your custom overrides go below this line */
+@import
+"vendor/breakpoint/breakpoint",
 
-/* hide any theme toggle control */
-.theme-toggle,
-.js-theme-toggle,
-button[aria-label="Toggle theme"] {
-  display: none !important;
-}
+"themes",
+"theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+"theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-/* force light colors regardless of OS or JS switching */
-:root { color-scheme: light; }
-@media (prefers-color-scheme: dark) {
-  :root { color-scheme: light; }
-}
+"include/mixins",
+"vendor/susy/susy",
 
-/* neutralize any JS-applied dark mode attribute/class */
-html[data-theme="dark"], .dark {
-  color-scheme: light;
-}
+"layout/reset",
+"layout/base",
 
+"include/utilities",
+"layout/tables",
+"layout/buttons",
+"layout/notices",
+"layout/masthead",
+"layout/navigation",
+"layout/footer",
+"syntax",
+
+"layout/forms",
+
+"layout/page",
+"layout/archive",
+"layout/sidebar",
+"layout/json_cv",
+
+"vendor/font-awesome/fontawesome",
+"vendor/font-awesome/solid",
+"vendor/font-awesome/brands"
+;
+;
 
 
 /* === Avatar shape override === */
