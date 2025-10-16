@@ -8,7 +8,7 @@ author_profile: true
 {% if site.author.googlescholar %}
 <div class="wordwrap">
   You can find all my articles on
-  <a href="{{ site.author.googlescholar }}">my Scholar profile</a> and [my iNSPIRE page](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
+  <a href="{{ site.author.googlescholar }}">my Scholar profile</a> and on [my iNSPIRE page](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
 </div>
 {% endif %}
 
