@@ -1,6 +1,5 @@
 ---
 ---
-
 /*
 * This file controls what is imported from /_sass
 *
@@ -13,7 +12,6 @@
 
 "themes",
 "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-// "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
 "include/mixins",
 "vendor/susy/susy",
@@ -41,8 +39,14 @@
 "vendor/font-awesome/solid",
 "vendor/font-awesome/brands"
 ;
-;
 
+/* Lock to light & hide any theme toggle */
+:root { color-scheme: light; }
+@media (prefers-color-scheme: dark) { :root { color-scheme: light; } }
+html[data-theme="dark"], .dark { color-scheme: light !important; }
+.theme-toggle,
+.js-theme-toggle,
+button[aria-label="Toggle theme"] { display: none !important; }
 
 /* === Avatar shape override === */
 .author__avatar img {
