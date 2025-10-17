@@ -7,10 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-- [**Python for Physics (Ruhr University Bochum, 2019–2021)**](https://github.com/airub-multimessenger/py4phys-2022/tree/main)
-  **Ruhr University Bochum**
-  I designed and delivered a new Python course (150 students)
-  The course was later integrated into the BSc Physics curriculum
+- [**Python for Physics (Ruhr University Bochum, 2022)**](https://github.com/airub-multimessenger/py4phys-2022/tree/main)
+  I designed and delivered a new Python course with 150 students
+  The course was later integrated into the Physics undergrad curriculum
 
 - **Tutorials in Mathematics and Neutrino Physics**
   **(Humboldt University of Berlin, 2016–2019)**  
