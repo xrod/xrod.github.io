@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 feature_am3:
-  - image_path: "{{ '/images/logo.webp' | relative_url }}"
+  - image_path: "https://xrod.github.io/images/logo.webp"
     alt: "Logo of the AM3 modeling software"
     title: "AM³ — an open-source astroparticle framework"
     url: "https://am3.readthedocs.io/en/latest/"
@@ -15,7 +15,7 @@ feature_am3:
     image_width: 320
 
 feature_paper:
-  - image_path: "{{ '/images/agn_jet.png' | relative_url }}"
+  - image_path: "https://xrod.github.io/images/agn_jet.png"
     alt: "Cartoon of a jet launched by a black hole, where particles accelerated to high energies emit complex radiative signatures"
     title: "New manuscript out August 2025)"
     url: "https://arxiv.org/abs/2508.18345"
