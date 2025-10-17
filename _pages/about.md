@@ -22,7 +22,7 @@ feature_hillas_paper:
     excerpt: "Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources."
     image_width: 420
 
-feature_threehundred:
+feature_three_hundred_blazars:
   - image_path: "https://xrod.github.io/images/324_blazars.png"
     alt: "Sky map showing the location of 324 blazars recently modeled by Rodrigues et al."
     title: "<a href='https://github.com/xrod/lephad-blazars'>Model predicts neutrino emission from hundreds of jetted black holes</a>"
@@ -36,4 +36,6 @@ feature_threehundred:
 
 {% include feature_row id="feature_am3" type="left" %}
 
-{% include feature_row id="feature_paper" type="left" %}
+{% include feature_row id="feature_hillas_paper" type="left" %}
+
+{% include feature_row id="feature_three_hundred_blazars" type="left" %}
