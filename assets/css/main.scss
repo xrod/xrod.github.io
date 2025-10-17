@@ -59,3 +59,7 @@ button[aria-label="Toggle theme"] { display: none !important; }
 /* Hide the default button in Minimal Mistakes feature_row cards */
 .feature__item .btn { display: none !important; }
 
+/* Hide the default 'Learn more' button in feature_row cards */
+.feature__item .btn {
+  display: none !important;
+}
