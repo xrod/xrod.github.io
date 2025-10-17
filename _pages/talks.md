@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Selected invited plenary talks (international conferences)
+### Invited plenary talks at international conferences
 
 - **06 Jan 2025 - CRPropa Conference on Astroparticle Propagation, Khalifa University, Abu Dhabi, UAE**
   [*Active galaxies as ultra-high-energy sources* (opening talk)](https://ku.events/crpc/)
@@ -24,23 +24,35 @@ author_profile: true
 - **12 Jan 2023 — Rencontres du Vietnam: Theory Meets Experiment, Quy Nhon, Vietnam**  
   [*Cosmic rays and neutrinos from AGN*](http://vietnam.in2p3.fr/2023/tmex/transparencies/PS17-CR/04_rodrigues.pdf)  
 
-- **Perspectives in Astroparticle Physics (PAHEN), Berlin, Germany**  
+- **14 Sep 2022 — CRPropa Workshop on Astroparticle Propagation, Madrid, Spain**  
+  [*Efficient UHECR simulations with PriNCe and what they taught us so far*](https://indico.ift.uam-csic.es/event/11/contributions/73/)
+  
+- **12 May 2022 — 7th Meting od the AstroParticle Committee (APC), Zeuthen, Germany**  
+  [*Active Galaxies as Multi-Messenger Sources*](https://indico.desy.de/event/33843/sessions/12767/attachments/74832/96012/Highlight_Talk_APC7_AGN.pdf)
+
+- **26 Sep 2019 - Perspectives in Astroparticle Physics, Berlin, Germany**  
   [*Theoretical Interpretation of the Historical Flare of TXS 0506+056*](https://indico.desy.de/event/22051/contributions/45283/attachments/29222/36698/pahen_talk_rodrigues.pdf)  
 
-### Selected invited seminars
+### Invited seminar talks
 
 - **Mar–Apr 2025 — Research stay and cycle of talks in Taiwan**  
   Invited series of four [public seminars](https://www.lecospa.ntu.edu.tw/talks/the-case-for-black-hole-jets-as-ultra-high-energy-neutrino-sources) at leading Taiwanese universities  
-  supported by the National Science and Technology Council of Taiwan (Grant 113-2111-M-006-002)  
+  supported by the National Science and Technology Council of Taiwan (Grant 113-2111-M-006-002)
   
+- **1 Jun 2023 — Public Seminar, LIP Lisboa, Lisbon, Portugal**  
+  *Multi-Messenger predictions from Active Galaxies: From IceCube to Auger*  
+
 - **21 Feb 2023 — Khalifa University Physics Seminar, Abu Dhabi, UAE**   
   *Active Black Holes: Nature’s Particle Accelerators*  
   
-- **14 Sep 2022 — CRPropa Workshop on Astroparticle Propagation, Madrid, Spain**  
-  [*Efficient UHECR simulations with PriNCe and what they taught us so far*](https://indico.ift.uam-csic.es/event/11/contributions/73/)  
-  
 - **01 Nov 2021 — Astrophysics Seminar, Niels Bohr Institute, Copenhagen, Denmark**  
   [*Neutrinos from Active Galaxies: from IceCube to GRAND* (**YouTube link**)](https://www.youtube.com/watch?v=k7_NgtV61fY&t=1698s&ab_channel=NBIAAstroparticleSeminars)  
+
+- **5 Mar 2020 — AstroParticle Lunch, CCAPP, Ohio State University, USA (online)**  
+  *AGN jets and the origin of UHECRs*
+
+- **23 Jan 2020 - Astrophysics seminar, JMU University, Würzburg, Germany**  
+  *Blazars as sources of neutrinos and ultra-high-energy cosmic rays*  
 
 - **26 Jul 2019 — Seminar talk, RIKEN, Tokyo, Japan**  
   *Numerical Models of Cosmic-Ray Accelerators Including Heavy Nuclei*  
