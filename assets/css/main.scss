@@ -55,3 +55,7 @@ button[aria-label="Toggle theme"] { display: none !important; }
   height: auto;
   object-fit: cover;
 }
+
+/* Hide the default button in Minimal Mistakes feature_row cards */
+.feature__item .btn { display: none !important; }
+
