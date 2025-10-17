@@ -9,15 +9,15 @@ redirect_from:
 feature_am3:
   - image_path: "{{ '/images/logo.webp' | relative_url }}"
     alt: "Logo of the AM3 modeling software"
-    title: "AM³ — open-source astroparticle framework"
+    title: "AM³ — an open-source astroparticle framework"
     url: "https://am3.readthedocs.io/en/latest/"
-    excerpt: "I am a developer of AM³, a world-leading astroparticle simulation framework, available as open-source Python software."
+    excerpt: "A world-leading astroparticle simulation code, now available as open-source Python software."
     image_width: 320
 
 feature_paper:
   - image_path: "{{ '/images/agn_jet.png' | relative_url }}"
     alt: "Cartoon of a jet launched by a black hole, where particles accelerated to high energies emit complex radiative signatures"
-    title: "New manuscript (Aug 2025)"
+    title: "New manuscript out August 2025)"
     url: "https://arxiv.org/abs/2508.18345"
     excerpt: "Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources."
     image_width: 420
