@@ -17,7 +17,7 @@ feature_am3:
 feature_paper:
   - image_path: "https://xrod.github.io/images/agn_jet.png"
     alt: "Cartoon of a jet launched by a black hole, where particles accelerated to high energies emit complex radiative signatures"
-    title: "New manuscript out August 2025)"
+    title: "New manuscript out August 2025"
     url: "https://arxiv.org/abs/2508.18345"
     excerpt: "Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources."
     image_width: 420
