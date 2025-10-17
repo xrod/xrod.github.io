@@ -12,7 +12,7 @@ redirect_from:
 
 <p>
   <a href="https://am3.readthedocs.io/en/latest/">
-    <img src="/assets/images/logo.webp" alt="AM³ logo" style="float:left; margin-right:15px; width:120px;">
+    <img src="/images/logo.webp" alt="AM³ logo" style="float:left; margin-right:15px; width:120px;">
   </a>
   I am a developer of <a href="https://am3.readthedocs.io/en/latest/">AM³</a>, 
   a world-leading astroparticle simulation framework, available as open-source Python software.
