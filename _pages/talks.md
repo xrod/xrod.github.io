@@ -9,8 +9,8 @@ author_profile: true
 
 ### Invited plenary talks at international conferences
 
-- **06 Jan 2025 - CRPropa Conference on Astroparticle Propagation, Khalifa University, Abu Dhabi, UAE**
-  [*Active galaxies as ultra-high-energy sources* (opening talk)](https://ku.events/crpc/)
+- **06 Jan 2025 - CRPropa Conference on Astroparticle Propagation, Khalifa University, Abu Dhabi, UAE**  
+  [*Active galaxies as ultra-high-energy sources* (opening talk)](https://ku.events/crpc/)  
  
 - **07 Mar 2024 — DPG Spring Meeting (German Physical Society), Karlsruhe, Germany**  
   *Modeling the multi-messenger emission from Active Galactic Nuclei*  
