@@ -58,7 +58,10 @@ author_profile: true
   *Numerical Models of Cosmic-Ray Accelerators Including Heavy Nuclei*  
 
 
-### Contributed talks at international conferences  
+### Contributed talks at international conferences
+
+- **5 Nov 2025 — TeV Particle Astrophysics (TeVPA) 2025, Valencia, Spain *(upcoming)***  
+  *The case for blazars as ultra-high-energy neutrino sources* 
 
 - **11 Sep 2023 — TeV Particle Astrophysics (TeVPA) 2023, Naples, Italy**  
   [*Cosmic ray interaction models applied to a large blazar sample*](https://agenda.infn.it/event/33457/contributions/205274/attachments/109550/155663/tevpa2023_rodrigues.pdf)  
