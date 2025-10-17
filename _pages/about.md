@@ -23,7 +23,8 @@ feature_paper:
     image_width: 420
 ---
 
-## Understanding active black holes with neutrinos and numerical modeling
+## Understanding black holes with neutrinos and numerical modeling
+
 
 {% include feature_row id="feature_am3" type="left" %}
 
