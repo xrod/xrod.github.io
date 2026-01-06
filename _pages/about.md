@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Xavier Rodrigues -- Astrophysicist"
+site_title: false
+subtitle: "Understanding black holes with neutrinos and numerical modeling"
 author_profile: true
 redirect_from:
   - /about/
@@ -30,8 +32,6 @@ feature_three_hundred_blazars:
     excerpt: "In a study published in <a href='https://arxiv.org/pdf/2307.13024'>Astron. Astrophys. (2024)</a>, I modeled 324 blazars detected with the Fermi Large Area Telescope and showed that for one-third of the sample, proton interactions can help describe observations. The <a href='https://github.com/xrod/lephad-blazars'>results</a> and the <a href='https://gitlab.desy.de/am3/am3/-/blob/master/docs/examples/blazar_detailed_example.ipynb?ref_type=heads'>simulation flow with AM3</a> are publicly available."
     image_width: 420
 ---
-
-## Understanding black holes with neutrinos and numerical modeling
 
 
 {% include feature_row id="feature_am3" type="left" %}
