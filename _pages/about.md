@@ -17,9 +17,9 @@ feature_am3:
 feature_hillas_paper:
   - image_path: "https://xrod.github.io/images/agn_jet.png"
     alt: "Cartoon of a jet launched by a black hole, where particles accelerated to high energies emit complex radiative signatures"
-    title: "<a href='https://arxiv.org/abs/2508.18345'>*Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources*</a>"
+    title: "<a href='https://arxiv.org/abs/2508.18345'>Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources</a>"
     url: "https://arxiv.org/abs/2508.18345"
-    excerpt: "New pre-print out August 2025"
+    excerpt: "Manuscript accepted in <em>Astron. & Astrophysics</em> presents a new model of black hole jets. The AM3-based model is fully available <a href='https://github.com/xrod/extended-jets'>on GitHub</a>."
     image_width: 420
 
 feature_three_hundred_blazars:
