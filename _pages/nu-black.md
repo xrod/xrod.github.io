@@ -9,9 +9,13 @@ main_image_alt: "Visualization of a black hole jet producing ultra-high-energy n
 
 # Project description (two paragraphs)
 description: |
-  NUBLACK is an ambitious research project aiming to identify the sources of ultra-high-energy neutrinos by combining multi-messenger observations with state-of-the-art simulations. We focus on active black holes as potential cosmic accelerators and use advanced machine learning techniques to analyze neutrino and gamma-ray data. 
+  NUBLACK is an ambitious two-year project hosted at the Astroparticle and Cosmology lab (APC) of the University Paris Cité. 
+  
+  xNUBLACK uses state-of-the-art simulations based on my open-source code <a href='https://am3.readthedocs.io/en/latest/'>AM3</a>  to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes.
 
-  The project also explores the physical mechanisms of particle acceleration in jets, aiming to link theoretical predictions with observational data from IceCube, CTA, and other facilities. NUBLACK seeks to illuminate the hidden high-energy universe and deepen our understanding of cosmic accelerators.
+  The project will result in key predictions for future facilities, such as IceCube-Gen2 and CTAO, helping to shed light on the long-debated origin of the ultra-high-energy cosmic rays.
+
+  NUBLACK is supported by the investment program ‘France 2030’ launched by the French Government and implemented by the University Paris Cité as part of its program ‘Initiative d’excellence’ IdEx (ANR-18-IDEX-0001), which also funded the HERMES: multi-messengers of the Earth and the Universe project that contributed to this work.
 
 # Sponsor logos (displayed smaller than main image)
 sponsors:
