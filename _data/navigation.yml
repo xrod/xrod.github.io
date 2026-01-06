@@ -26,8 +26,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "NUBLACK"
+    url: /nu-black/
     
-  # - title: "Guide"
-  #   url: /markdown/
