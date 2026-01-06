@@ -110,6 +110,12 @@ yandex_site_verification :
 social:
   type: Person
   name: "Xavier Rodrigues"
+  job_title: "Astrophysicist"
+  description: "Astrophysicist working on neutrinos, active black holes, and numerical modeling"
+  affiliation:
+    name: "Université Paris Cité"
+  alumni_of:
+    - name: "Humboldt University of Berlin"
   links:
     - https://scholar.google.com/citations?user=_au_HbkAAAAJ
     - https://orcid.org/0000-0001-9001-3937
