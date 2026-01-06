@@ -1,7 +1,10 @@
-# Project page: nuBLACK
-
+---
 title: "NUBLACK"
 subtitle: "Neutrinos and Photons Uncover Extreme Black Holes"
+permalink: /nu-black/
+layout: single
+author_profile: true
+
 main_image: "images/324_blazars.jpg"  # Path to your main project image
 
 # Optional alt text for accessibility
@@ -11,7 +14,7 @@ main_image_alt: "Visualization of a black hole jet producing ultra-high-energy n
 description: |
   NUBLACK is an ambitious two-year project hosted at the Astroparticle and Cosmology lab (APC) of the University Paris Cité. 
   
-  xNUBLACK uses state-of-the-art simulations based on my open-source code <a href='https://am3.readthedocs.io/en/latest/'>AM3</a>  to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes.
+  The goal of NUBLACK is to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes. This effort requires state-of-the-art simulations based on my [open-source code AM3](https://am3.readthedocs.io/en/latest/).
 
   The project will result in key predictions for future facilities, such as IceCube-Gen2 and CTAO, helping to shed light on the long-debated origin of the ultra-high-energy cosmic rays.
 
@@ -21,14 +24,16 @@ description: |
 sponsors:
   - image: "images/logo_idex.jpg"
     alt: "idex logo"
-    url: "https://logo_idex.jpg"
+    url: "https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/"
   - image: "images/logo_france_2030.png"
     alt: "France 2030 Logo"
-    url: "https://logo_france_2030.png"
+    url: "https://anr.fr/en/france-2030/france-2030/"
 
 # Optional: layout hints for rendering (depends on your website engine)
-layout:
+layout_options:
   main_image_width: 600    # pixels
   sponsor_image_width: 150 # pixels
   image_alignment: "center"
   sponsors_alignment: "bottom-right"
+
+---s
