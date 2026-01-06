@@ -36,4 +36,4 @@ layout_options:
   image_alignment: "center"
   sponsors_alignment: "bottom-right"
 
----s
+---
