@@ -4,6 +4,17 @@
 
 {% include seo.html %}
 
+<!-- Site name for Google  -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Xavier Rodrigues",
+  "alternateName": "Xavier Rodrigues – Astrophysicist",
+  "url": "https://xrod.github.io/"
+}
+</script>
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
