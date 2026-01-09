@@ -4,6 +4,9 @@ subtitle: "Neutrinos and Photons Uncover Extreme Black Holes"
 permalink: /nu-black/
 layout: single
 author_profile: true
+
+sidebar:
+  nav: nublack
 ---
 
 ![Visualization of a black hole jet producing ultra-high-energy neutrinos](/images/nublack_logo_noback.png)
