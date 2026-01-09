@@ -9,7 +9,7 @@ author_profile: true
 ![Visualization of a black hole jet producing ultra-high-energy neutrinos](/images/nublack_logo_white.png)
 
 
-NUBLACK is an ambitious two-year project hosted at the Astroparticle and Cosmology lab (APC) of the University Paris Cité. 
+NUBLACK is an ambitious two-year project hosted at the [Astroparticle and Cosmology Lab (APC)](https://apc.u-paris.fr/en) of the [University Paris Cité](https://u-paris.fr/language/en/). 
 
 The goal of NUBLACK is to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes. The project will exploit the potential of the new [open-source code AM3](https://am3.readthedocs.io/en/latest/) to perform cutting-edge numerical simulations of black hole jets.  
 
