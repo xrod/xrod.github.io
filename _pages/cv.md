@@ -11,7 +11,7 @@ redirect_from:
 
 
 I am a postdoctoral fellow at the [Astroparticle and Cosmology Laboratory (APC)](https://apc.u-paris.fr/en) at [Paris Cité University](https://u-paris.fr/)  
-and a vistiing researcher at [DESY](https://desy.de/), the German Electron Synchrotron, at the Zeuthen campus, near Berlin.
+and a visiting researcher at [DESY](https://desy.de/), the German Electron Synchrotron, at the Zeuthen campus, near Berlin.
 
 Previous experience
 ======
