@@ -7,7 +7,7 @@ author_profile: true
 
 sidebar:
   nav: nublack
-  custom: project-facts-nublack.html
+  custom: test-sidebar.html
 ---
 
 <!-- {% include project-facts-nublack.html %} -->
