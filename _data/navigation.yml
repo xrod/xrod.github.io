@@ -29,3 +29,31 @@ main:
   - title: "NUBLACK"
     url: /nu-black/
     
+
+
+nublack:
+  - title: "Project facts"
+    children:
+      - title: "Start"
+        url: "#"
+      - title: "1 November 2025"
+      - title: "Duration"
+        url: "#"
+      - title: "2 years"
+        url: "#"
+      - title: "Host"
+        url: "#"
+      - title: "APC, Université Paris Cité"
+        url: "#"
+      - title: "Funding bodies"
+        url: "#"
+      - title: "France 2030; Université Paris Cité (IdEx)"
+        url: "#"
+      - title: "Grant number"
+        url: "#"
+      - title: "ANR-18-IDEX-0001"
+        url: "#"
+      - title: "Award amount"
+        url: "#"
+      - title: "€152,000"
+        url: "#"
