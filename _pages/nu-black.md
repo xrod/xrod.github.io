@@ -7,12 +7,12 @@ author_profile: true
 
 sidebar:
   nav: nublack
-  custom: test-sidebar.html
+  custom: project-facts-nublack.html
 ---
 
 <!-- {% include project-facts-nublack.html %} -->
 
-![Visualization of a black hole jet producing ultra-high-energy neutrinos](/images/nublack_logo_noback.png)
+![Logo of the NUBLACK project](/images/nublack_logo_noback.png)
 
 
 NUBLACK is an ambitious two-year project hosted at the [Astroparticle and Cosmology Lab (APC)](https://apc.u-paris.fr/en) of the [University Paris Cité](https://u-paris.fr/language/en/). 
