@@ -17,5 +17,14 @@ The project will result in key predictions for future facilities, such as IceCub
 
 NUBLACK is supported by the investment program ‘France 2030’ launched by the French Government and implemented by the University Paris Cité as part of its program ‘Initiative d’excellence’ IdEx (ANR-18-IDEX-0001), which also funded the HERMES: multi-messengers of the Earth and the Universe project that contributed to this work.
 
-[![IdEx](/images/logo_idex.jpg)](https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/)
-[![France 2030](/images/logo_france_2030.png)](https://anr.fr/en/france-2030/france-2030/)
+<div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+  <a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/"
+     style="flex: 0 0 50%; text-align: center;">
+    <img src="/images/logo_idex.jpg" alt="IdEx" style="max-width: 100%; height: auto;">
+  </a>
+
+  <a href="https://anr.fr/en/france-2030/france-2030/"
+     style="flex: 0 0 50%; text-align: center;">
+    <img src="/images/logo_france_2030.png" alt="France 2030" style="max-width: 100%; height: auto;">
+  </a>
+</div>
