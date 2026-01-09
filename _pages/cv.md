@@ -51,6 +51,6 @@ Other contributions to the community
 ======
 
 I have been invited to review ~20 manuscripts for *Physical Review Letters*, *Nature Communications*, *The Astrophysical Journal*, *Astronomy &
-Astrophysics*, *Monthly Noteices of the Royal Astronomical Society, and *Journal of Cosmology and Astroparticle Physics*.
+Astrophysics*, *Monthly Notices of the Royal Astronomical Society*, *Physical Review D*, and *Journal of Cosmology and Astroparticle Physics*.
 
 I have also been invited as proposal reviewer by the Polish National Science Center (NCN).
