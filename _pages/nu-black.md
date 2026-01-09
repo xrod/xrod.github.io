@@ -9,6 +9,8 @@ sidebar:
   nav: nublack
 ---
 
+{% include project-facts-nublack.html %}
+
 ![Visualization of a black hole jet producing ultra-high-energy neutrinos](/images/nublack_logo_noback.png)
 
 
