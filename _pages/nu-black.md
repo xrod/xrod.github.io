@@ -11,11 +11,11 @@ author_profile: true
 
 NUBLACK is an ambitious two-year project hosted at the Astroparticle and Cosmology lab (APC) of the University Paris Cité. 
 
-The goal of NUBLACK is to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes. This effort requires state-of-the-art simulations based on my [open-source code AM3](https://am3.readthedocs.io/en/latest/).
+The goal of NUBLACK is to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes. The project will exploit the potential of the new [open-source code AM3](https://am3.readthedocs.io/en/latest/) to perform cutting-edge numerical simulations of black hole jets.  
 
-The project will result in key predictions for future facilities, such as IceCube-Gen2 and CTAO, helping to shed light on the long-debated origin of the ultra-high-energy cosmic rays.
+The project will result in key predictions for future multi-messenger facilities, such as IceCube-Gen2 and CTAO, helping to shed light on the long-debated origin of the ultra-high-energy cosmic rays.
 
-NUBLACK is supported by the investment program ‘France 2030’ launched by the French Government and implemented by the University Paris Cité as part of its program ‘Initiative d’excellence’ IdEx (ANR-18-IDEX-0001), which also funded the HERMES: multi-messengers of the Earth and the Universe project that contributed to this work.
+NUBLACK is supported by the investment program [France 2030](https://anr.fr/en/france-2030/france-2030/) launched by the French Government and implemented by the University Paris Cité as part of its program ‘Initiative d’excellence’ [IdEx](https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/) (ANR-18-IDEX-0001), which also funded the *HERMES: multi-messengers of the Earth and the Universe* project.
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
   <a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/"
