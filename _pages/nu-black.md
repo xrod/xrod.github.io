@@ -18,15 +18,14 @@ sidebar:
 
 <strong>Start:</strong> 1 November 2025<br>
 <strong>Duration:</strong> 2 years<br>
-<strong>Host:</strong> APC, Université Paris Cité<br>
-<strong>Funding bodies:</strong> France 2030; Université Paris Cité (IdEx)<br>
+<strong>Host:</strong> <a href="https://u-paris.fr/language/en/">Astroparticle and Cosmology Lab (APC)</a>, <a href="https://u-paris.fr/language/en/">Université Paris Cité</a><br>
+<strong>Funding bodies:</strong> <a href="https://anr.fr/en/france-2030/france-2030/">France 2030</a>; Université Paris Cité (<a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/">IdEx</a>)<br>
 <strong>Grant number:</strong> ANR-18-IDEX-0001<br>
 <strong>Award amount:</strong> €152,000
 </div>
 
-NUBLACK is an ambitious two-year project hosted at the [Astroparticle and Cosmology Lab (APC)](https://apc.u-paris.fr/en) of the [University Paris Cité](https://u-paris.fr/language/en/). 
 
-The goal of NUBLACK is to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes. The project will exploit the potential of the new [open-source code AM3](https://am3.readthedocs.io/en/latest/) to perform cutting-edge numerical simulations of black hole jets.  
+NUBLACK is an ambitious project aiming to identify multi-messenger signatures left by the interactions of ultra-high-energy cosmic-rays accelerated in the jets of active black holes. The project will exploit the potential of the new [open-source code AM3](https://am3.readthedocs.io/en/latest/) to perform cutting-edge numerical simulations of black hole jets.  
 
 The project will result in key predictions for future multi-messenger facilities, such as IceCube-Gen2 and CTAO, helping to shed light on the long-debated origin of the ultra-high-energy cosmic rays.
 
@@ -43,3 +42,7 @@ NUBLACK is supported by the investment program [France 2030](https://anr.fr/en/f
     <img src="/images/logo_france_2030.png" alt="France 2030" style="max-width: 100%; height: auto;">
   </a>
 </div>
+
+# Publications
+
+TBA soon
