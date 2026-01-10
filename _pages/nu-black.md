@@ -14,7 +14,7 @@ sidebar:
 ![Logo of the NUBLACK project](/images/nublack_logo_noback.png)
 
 <div class="notice--info">
-<strong>Project summary</strong><br><br>
+<strong style="font-size: 1.4em; display: block; text-align: center;">Project summary</strong><br><br>
 
 <strong>Start:</strong> 1 November 2025<br>
 <strong>Duration:</strong> 2 years<br>
