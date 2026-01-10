@@ -31,6 +31,10 @@ The project will result in key predictions for future multi-messenger facilities
 
 NUBLACK is supported by the investment program [France 2030](https://anr.fr/en/france-2030/france-2030/) launched by the French Government and implemented by the University Paris Cité as part of its program ‘Initiative d’excellence’ [IdEx](https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/) (ANR-18-IDEX-0001), which also funded the *HERMES: multi-messengers of the Earth and the Universe* project.
 
+# Publications
+
+TBA soon
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
   <a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/"
      style="flex: 0 0 50%; text-align: center;">
@@ -42,7 +46,3 @@ NUBLACK is supported by the investment program [France 2030](https://anr.fr/en/f
     <img src="/images/logo_france_2030.png" alt="France 2030" style="max-width: 100%; height: auto;">
   </a>
 </div>
-
-# Publications
-
-TBA soon
