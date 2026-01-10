@@ -13,15 +13,15 @@ sidebar:
 
 ![Logo of the NUBLACK project](/images/nublack_logo_noback.png)
 
-<div class="notice--success">
-<strong>Project summary</strong>
+<div class="notice--info">
+<strong>Project summary</strong><br><br>
 
-**Start:** 1 November 2025  
-**Duration:** 2 years  
-**Host:** APC, Université Paris Cité  
-**Funding:** France 2030; Université Paris Cité (IdEx)  
-**Grant:** ANR-18-IDEX-0001  
-**Award:** €152,000
+**Start:** 1 November 2025  <br>
+**Duration:** 2 years  <br>
+**Host:** APC, Université Paris Cité  <br>
+**Funding:** France 2030; Université Paris Cité (IdEx)  <br>
+**Grant:** ANR-18-IDEX-0001  <br>
+**Award:** €152,000<br>
 </div>
 
 NUBLACK is an ambitious two-year project hosted at the [Astroparticle and Cosmology Lab (APC)](https://apc.u-paris.fr/en) of the [University Paris Cité](https://u-paris.fr/language/en/). 
