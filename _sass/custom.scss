@@ -12,16 +12,12 @@
 
 
 .project-facts {
-  font-size: 1.5rem;
+  font-size: 1.4rem; /* scale ONCE */
 }
 
-.project-facts dt {
-  font-weight: 600;
-  font-size: 1.5em;
-}
-
+.project-facts dt,
 .project-facts dd {
-  font-size: 1.5em; /* reset */
+  font-size: 1em;   /* stop shrinking */
 }
 
 // .project-facts {
