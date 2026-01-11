@@ -9,16 +9,39 @@
   letter-spacing: 0.05em;
 }
 
+
+
 .project-facts {
-  margin: 0;
+  font-size: 1.5rem;
 }
 
-.project-facts dt {
-  font-weight: 600;
-  font-size: 0.85em;
-}
-
+.project-facts dt,
 .project-facts dd {
-  margin: 0 0 0.6em 0;
-  font-size: 0.85em;
+  font-size: 1em; /* reset */
 }
+
+
+
+/* Feature row image should not look clickable */
+.feature__item img {
+  cursor: default;
+}
+
+.feature__item:hover img {
+  opacity: 1;
+  transform: none;
+}
+
+// .project-facts {
+//   margin: 0;
+// }
+
+// .project-facts dt {
+//   font-weight: 600;
+//   font-size: 0.85em;
+// }
+
+// .project-facts dd {
+//   margin: 0 0 0.6em 0;
+//   font-size: 0.85em;
+// }
