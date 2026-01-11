@@ -35,9 +35,9 @@ feature_hillas_paper:
 feature_three_hundred_blazars:
   - image_path: "https://xrod.github.io/images/324_blazars.png"
     alt: "Sky map showing the location of 324 blazars recently modeled by Rodrigues et al."
-    title: "<a href='https://github.com/xrod/lephad-blazars'>Modeling hundreds of black hole jets predicts neutrino emission</a>"
+    title: "<a href='https://arxiv.org/pdf/2307.13024'>Modeling hundreds of black hole jets predicts neutrino emission</a>"
     # url: "https://arxiv.org/pdf/2307.13024"
-    excerpt: "In a study published in <a href='https://arxiv.org/pdf/2307.13024'>Astron. Astrophys. (2024)</a>, I modeled 324 blazars detected with the Fermi Large Area Telescope and showed that for one-third of the sample, proton interactions can help describe observations. The <a href='https://github.com/xrod/lephad-blazars'>results</a> and the <a href='https://gitlab.desy.de/am3/am3/-/blob/master/docs/examples/blazar_detailed_example.ipynb?ref_type=heads'>simulation flow with AM3</a> are publicly available."
+    excerpt: "In a study published in <a href='https://www.aanda.org/articles/aa/full_html/2024/01/aa47540-23/aa47540-23.html'>Astron. Astrophys. (2024)</a>, I modeled 324 blazars detected with the Fermi Large Area Telescope and showed that for one-third of the sample, proton interactions can help describe observations. All <a href='https://github.com/xrod/lephad-blazars'>results</a> and the <a href='https://gitlab.desy.de/am3/am3/-/blob/master/docs/examples/blazar_detailed_example.ipynb?ref_type=heads'>full simulation flow with AM3</a> are available on GitHub."
     image_width: 420
 ---
 
