@@ -13,7 +13,7 @@ feature_nublack:
     alt: "Logo of the NUBLACK project"
     title: "<a href='https://xrod.github.io/nu-black/'>NUBLACK</a>"
     # url: "https://xrod.github.io/nu-black/"
-    excerpt: "A new project to uncover signatures of cosmic-ray interactions, funded by the <it>France 2030</it> program (€152,000)."
+    excerpt: "A new project to uncover signatures of cosmic-ray interactions, funded by <it>France 2030</it> (€152,000)."
     image_width: 320
 
 feature_am3:

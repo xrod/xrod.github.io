@@ -15,21 +15,13 @@
   font-size: 1.5rem;
 }
 
-.project-facts dt,
+.project-facts dt {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
 .project-facts dd {
-  font-size: 1em; /* reset */
-}
-
-
-
-/* Feature row image should not look clickable */
-.feature__item img {
-  cursor: default;
-}
-
-.feature__item:hover img {
-  opacity: 1;
-  transform: none;
+  font-size: 1.5em; /* reset */
 }
 
 // .project-facts {
@@ -45,3 +37,14 @@
 //   margin: 0 0 0.6em 0;
 //   font-size: 0.85em;
 // }
+
+
+/* Feature row image should not look clickable */
+.feature__item img {
+  cursor: default;
+}
+
+.feature__item:hover img {
+  opacity: 1;
+  transform: none;
+}
