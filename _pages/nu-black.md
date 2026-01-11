@@ -13,7 +13,7 @@ sidebar:
 
 ![Logo of the NUBLACK project](/images/nublack_logo_noback.png)
 
-<div class="notice--info" style="font-size: 1.5rem;">
+<div class="notice--info project-facts">
 <strong style="display: block; text-align: center;">Project summary</strong><br>
 
 <strong>Start:</strong> 1 November 2025<br>
