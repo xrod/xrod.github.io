@@ -14,14 +14,14 @@ sidebar:
 ![Logo of the NUBLACK project](/images/nublack_logo_noback.png)
 
 <div class="notice--info project-facts">
-<strong style="text-align: center;">Project summary</strong><br>
+  <strong class="project-facts__title">Project summary</strong><br>
 
-<strong>Start:</strong> 1 November 2025<br>
-<strong>Duration:</strong> 2 years<br>
-<strong>Host:</strong> <a href="https://u-paris.fr/language/en/">Astroparticle and Cosmology Lab (APC)</a>, <a href="https://u-paris.fr/language/en/">Université Paris Cité</a><br>
-<strong>Funding bodies:</strong> <a href="https://anr.fr/en/france-2030/france-2030/">France 2030</a>; Université Paris Cité (<a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/">IdEx</a>)<br>
-<strong>Grant number:</strong> ANR-18-IDEX-0001<br>
-<strong>Award amount:</strong> €152,000
+  <strong>Start:</strong> 1 November 2025<br>
+  <strong>Duration:</strong> 2 years<br>
+  <strong>Host:</strong> <a href="https://u-paris.fr/language/en/">Astroparticle and Cosmology Lab (APC)</a>, <a href="https://u-paris.fr/language/en/">Université Paris Cité</a><br>
+  <strong>Funding bodies:</strong> <a href="https://anr.fr/en/france-2030/france-2030/">France 2030</a>; Université Paris Cité (<a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/">IdEx</a>)<br>
+  <strong>Grant number:</strong> ANR-18-IDEX-0001<br>
+  <strong>Award amount:</strong> €152,000
 </div>
 
 
