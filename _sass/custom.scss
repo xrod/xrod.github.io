@@ -10,14 +10,20 @@
 }
 
 
-
 .project-facts {
-  font-size: 1.4rem; /* scale ONCE */
+  font-size: 1.5rem;        /* reset sidebar scaling */
+  line-height: 1.4;
 }
 
-.project-facts dt,
-.project-facts dd {
-  font-size: 1em;   /* stop shrinking */
+.project-facts strong {
+  font-weight: 600;
+}
+
+.project-facts__title {
+  display: block;
+  text-align: center;
+  margin-bottom: 0.5em;
+  font-size: 1.05em;
 }
 
 // .project-facts {
