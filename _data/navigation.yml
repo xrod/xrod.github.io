@@ -26,6 +26,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "NUBLACK"
-    url: /nu-black/
+  # - title: "NUBLACK"
+  #   url: /nu-black/
+  - title: "Projects"
+    children:
+      - title: "NUBLACK"
+        url: /nu-black/
     
