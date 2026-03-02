@@ -10,11 +10,12 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
 ### Selected publications 
 
 - [**Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources**](https://arxiv.org/pdf/2508.18345)
-  X. Rodrigues, F. M. Rieger, A. Bohdan, P. Padovani (2025)
-  submitted to *Astron. Astrophys.* (arXiv:2508.18345)
+  X. Rodrigues, F. M. Rieger, A. Bohdan, P. Padovani (2026)
+  [*Astron. Astrophys.* 706, A351](https://www.aanda.org/articles/aa/full_html/2026/02/aa56986-25/aa56986-25.html)
 
 - [**A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei**](https://arxiv.org/pdf/2411.14218)
-  Cerruti et al., accepted in Astrophys. J. Suppl.
+  Cerruti et al (2026)
+  [*Astrophys.J.Suppl.* 282 1, 22](https://iopscience.iop.org/article/10.3847/1538-4365/ae1d5f)
 
 - [**Time-dependent modelling of short-term variability in the TeV-blazar VER J0521+211 during the major flare in 2020**](https://arxiv.org/pdf/2412.15836)
   with the MAGIC Collaboration (Abe et al., 2025) [*Astron. Astrophys.* 694, A308](https://doi.org/10.1051/0004-6361/202451378)
