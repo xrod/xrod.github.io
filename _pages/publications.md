@@ -9,6 +9,10 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
 
 ### Selected publications 
 
+- [**Neutrinos from extreme astrophysical sources**](https://arxiv.org/pdf/2603.10167)
+  X. Rodrigues (2026)
+  [*New Astronomy Reviews* 102, 101747](https://www.sciencedirect.com/science/article/pii/S1387647326000011?via%3Dihub)
+
 - [**Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources**](https://arxiv.org/pdf/2508.18345)
   X. Rodrigues, F. M. Rieger, A. Bohdan, P. Padovani (2026)
   [*Astron. Astrophys.* 706, A351](https://www.aanda.org/articles/aa/full_html/2026/02/aa56986-25/aa56986-25.html)

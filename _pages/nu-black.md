@@ -33,7 +33,10 @@ NUBLACK is supported by the investment program [France 2030](https://anr.fr/en/f
 
 # Publications
 
-TBA soon
+- [**Neutrinos from extreme astrophysical sources**](https://arxiv.org/pdf/2603.10167)
+  X. Rodrigues (2026)
+  [*New Astronomy Reviews* 102, 101747](https://www.sciencedirect.com/science/article/pii/S1387647326000011?via%3Dihub)
+
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
   <a href="https://u-paris.fr/language/en/universite-paris-cite-initiative-of-excellence/"
