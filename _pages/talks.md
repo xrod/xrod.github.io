@@ -10,7 +10,7 @@ author_profile: true
 ### Invited plenary talks at international conferences
 
 - **5 Feb 2026 - CRPropa Conference on Astroparticle Propagation, Bridge Quantum Gravity Workshop (BridgeQG), Annecy, France**  
-  *Developments and challenges in neutrino source modeling*  
+  [*Developments and challenges in neutrino source modeling*](https://indico.in2p3.fr/event/37528/contributions/168621/attachments/99610/153910/Rodrigues_QG_Annecy.pdf)
  
  - **06 Jan 2025 - CRPropa Conference on Astroparticle Propagation, Khalifa University, Abu Dhabi, UAE**  
   [*Active galaxies as ultra-high-energy sources* (opening talk)](https://ku.events/crpc/)  
