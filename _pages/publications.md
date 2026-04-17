@@ -7,7 +7,7 @@ author_profile: true
 
 You can find all my articles on my [Scholar profile](https://scholar.google.com/citations?user=_au_HbkAAAAJ&hl=en) and my [iNSPIRE page](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
 
-### Selected publications 
+### Publications in international refereed journals 
 
 - [**Neutrinos from extreme astrophysical sources**](https://arxiv.org/pdf/2603.10167)
   X. Rodrigues (2026)
@@ -59,6 +59,7 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
 - [**Binary neutron star merger remnants as sources of cosmic rays below the “Ankle”**](https://arxiv.org/pdf/1806.01624)
   X. Rodrigues, D. Biehl, D. Boncioli, A. M. Taylor (2019)
   [*Astropart. Phys.* 106](https://inspirehep.net/files/7c1627977da6ac224201b6491d0d1c9c)
+  
 - [**Interpretation of the Diffuse Astrophysical Neutrino Flux in Terms of the Blazar Sequence**](https://arxiv.org/pdf/1806.04769)
   A. Palladino, X. Rodrigues, S. Gao, W. Winter (2019)
   [*Astrophys. J.* 871, 41](https://iopscience.iop.org/article/10.3847/1538-4357/aaf507)
@@ -72,7 +73,7 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
   [*Astrophys. J.* 854, 54](https://iopscience.iop.org/article/10.3847/1538-4357/aaa7ee)
   
 
-### Publications in conference proceedings
+### Publications in international conference proceedings
 
 - [**Modeling a large AGN sample to unveil the signatures of neutrino emission**](https://inspirehep.net/files/a2340481f6681d2f3bab89678f782083)
 X. Rodrigues (2023)
@@ -86,9 +87,6 @@ Published in: [PoS ICRC2023 229](https://doi.org/10.22323/1.444.0229) • Contri
   A. Omeliukh, X. Rodrigues, S. Garrappa, V. Fallah Ramazani, A. Franckowiak
   Published in: [PoS ICRC2023 1528](https://doi.org/10.22323/1.444.1528) • Contribution to ICRC 2023 (Nagoya, Japan)
 
-- [**Modeling a large AGN sample to unveil the signatures of neutrino emission**](https://inspirehep.net/files/a2340481f6681d2f3bab89678f782083)
-X. Rodrigues (2023)
-Published in: [PoS ICRC2023 1544](https://doi.org/10.22323/1.444.1544) •Contribution to ICRC 2023 (Nagoya, Japan)
 
 - [**Leptonic and lepto-hadronic time-dependent spectral modeling of VER J0521+211 during the large outburst of February-March 2020**](https://inspirehep.net/files/254169f0443831d923a1a83c1acf31a1)
 MAGIC Collaboration (Hyuga Abe et al., 2023)
