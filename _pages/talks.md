@@ -9,7 +9,7 @@ author_profile: true
 
 ### Invited plenary talks at international conferences
 
-- **5 Feb 2026 - CRPropa Conference on Astroparticle Propagation, Bridge Quantum Gravity Workshop (BridgeQG), Annecy, France**  
+- **5 Feb 2026 - Bridge Quantum Gravity Workshop (BridgeQG), Annecy, France**  
   [*Developments and challenges in neutrino source modeling*](https://indico.in2p3.fr/event/37528/contributions/168621/attachments/99610/153910/Rodrigues_QG_Annecy.pdf)
  
  - **06 Jan 2025 - CRPropa Conference on Astroparticle Propagation, Khalifa University, Abu Dhabi, UAE**  
@@ -67,7 +67,7 @@ author_profile: true
 ### Contributed talks at international conferences
 
 - **5 Nov 2025 — TeV Particle Astrophysics (TeVPA) 2025, Valencia, Spain *(upcoming)***  
-  *The case for blazars as ultra-high-energy neutrino sources* 
+  [*The case for blazars as ultra-high-energy neutrino sources*](https://indico.ific.uv.es/event/7986/contributions/28195/attachments/14284/20732/xavier_rodrigues_tevpa2025.pdf)
 
 - **11 Sep 2023 — TeV Particle Astrophysics (TeVPA) 2023, Naples, Italy**  
   [*Cosmic ray interaction models applied to a large blazar sample*](https://agenda.infn.it/event/33457/contributions/205274/attachments/109550/155663/tevpa2023_rodrigues.pdf)  
