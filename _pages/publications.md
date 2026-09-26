@@ -9,7 +9,7 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
 
 ### Few-author publications in international refereed journals
 
--   [**Self-consistent modeling of energy-dependent synchrotron polarization in blazars with application to Mrk 421**](https://arxiv.org/pdf/2609.26574). F. Apel, M. Tisang, V. B. Martins, **X. Rodrigues**, M. Böttcher, and A. Franckowiak (2026, submitted to A\&A) [arxiv:2609.26574](arxiv:2609.26574) 
+-   [**Self-consistent modeling of energy-dependent synchrotron polarization in blazars with application to Mrk 421**](https://arxiv.org/pdf/2609.26574). F. Apel, M. Tisang, V. B. Martins, **X. Rodrigues**, M. Böttcher, and A. Franckowiak (2026, submitted to A&A) [arxiv:2609.26574](arxiv:2609.26574) 
 
 -   [**An Evolving Leptonic Jet Model for Delayed Radio Flares in Neutrino Blazars**](https://arxiv.org/pdf/2608.12696). A.  Kochocki, **X. Rodrigues**, and N. Whitehorn (2026, submitted to PRD) [arxiv:2608.12696](arxiv:2608.12696)
 
