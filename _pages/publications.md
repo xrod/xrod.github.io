@@ -7,100 +7,71 @@ author_profile: true
 
 You can find all my articles on my [Scholar profile](https://scholar.google.com/citations?user=_au_HbkAAAAJ&hl=en) and my [iNSPIRE page](https://inspirehep.net/authors/1730721?ui-citation-summary=true)
 
-### Publications in international refereed journals 
+### Few-author publications in international refereed journals
 
-- [**Neutrinos from extreme astrophysical sources**](https://arxiv.org/pdf/2603.10167)
-  X. Rodrigues (2026)
-  [*New Astronomy Reviews* 102, 101747](https://www.sciencedirect.com/science/article/pii/S1387647326000011?via%3Dihub)
+-   [**Self-consistent modeling of energy-dependent synchrotron polarization in blazars with application to Mrk 421**](https://arxiv.org/2609.26574/abs). F. Apel, M. Tisang, V. B. Martins, **X. Rodrigues**, M. Böttcher, and A. Franckowiak (2026, submitted to A\&A) [arxiv:2609.26574](arxiv:2609.26574) 
 
-- [**Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources**](https://arxiv.org/pdf/2508.18345)
-  X. Rodrigues, F. M. Rieger, A. Bohdan, P. Padovani (2026)
+-   [**An Evolving Leptonic Jet Model for Delayed Radio Flares in Neutrino Blazars**](https://arxiv.org/2608.12696/abs). A.  Kochocki, **X. Rodrigues**, and N. Whitehorn (2026, submitted to PRD) [arxiv:2608.12696](arxiv:2608.12696) 
+
+- [**Neutrinos from extreme astrophysical sources**](https://arxiv.org/pdf/2603.10167).  **X. Rodrigues** (2026) [*New Astronomy Reviews* 102, 101747](https://www.sciencedirect.com/science/article/pii/S1387647326000011?via%3Dihub)
+
+- [**Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources**](https://arxiv.org/pdf/2508.18345). **X. Rodrigues**, F. M. Rieger, A. Bohdan, P. Padovani (2026)
   [*Astron. Astrophys.* 706, A351](https://www.aanda.org/articles/aa/full_html/2026/02/aa56986-25/aa56986-25.html)
 
-- [**A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei**](https://arxiv.org/pdf/2411.14218)
-  Cerruti et al (2026)
-  [*Astrophys.J.Suppl.* 282 1, 22](https://iopscience.iop.org/article/10.3847/1538-4365/ae1d5f)
+- [**A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei**](https://arxiv.org/pdf/2411.14218). Cerruti et al (2026) [*Astrophys.J.Suppl.* 282 1, 22](https://iopscience.iop.org/article/10.3847/1538-4365/ae1d5f)
 
-- [**Time-dependent modelling of short-term variability in the TeV-blazar VER J0521+211 during the major flare in 2020**](https://arxiv.org/pdf/2412.15836)
-  with the MAGIC Collaboration (Abe et al., 2025) [*Astron. Astrophys.* 694, A308](https://doi.org/10.1051/0004-6361/202451378)
-  
-- [**The Spectra of IceCube Neutrino Candidate Sources V: Modeling and interpretation of multiwavelength and neutrino data**](https://arxiv.org/pdf/2406.06667)  
-  X. Rodrigues, M. Karl, P. Padovani, P. Giommi, S. Paiano, R. Falomo, M. Petropoulou, F. Oikonomou (2024)
-  [*Astron. Astrophys.* 689, A147](https://www.aanda.org/articles/aa/full_html/2024/09/aa50592-24/aa50592-24.html)
+- [**The Spectra of IceCube Neutrino Candidate Sources V: Modeling and interpretation of multiwavelength and neutrino data**](https://arxiv.org/pdf/2406.06667).  **X. Rodrigues**, M. Karl, P. Padovani, P. Giommi, S. Paiano, R. Falomo, M. Petropoulou, F. Oikonomou (2024) [*Astron. Astrophys.* 689, A147](https://www.aanda.org/articles/aa/full_html/2024/09/aa50592-24/aa50592-24.html)
 
-- [**AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources**](https://arxiv.org/pdf/2312.13371)
-  M. Klinger, A. Rudolph, X. Rodrigues, C. Yuan, G. Clairfontaine, A. Fedynitch, W. Winter, M. Pohl, S. Gao (2024)
+- [**AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources**](https://arxiv.org/pdf/2312.13371). M. Klinger, A. Rudolph, **X. Rodrigues**, C. Yuan, G. Clairfontaine, A. Fedynitch, W. Winter, M. Pohl, S. Gao (2024)
   [*Astrophys. J. Suppl.* 275, 1](https://iopscience.iop.org/article/10.3847/1538-4365/ad725c)
 
-- [**Leptohadronic Multi-Messenger Modeling of 324 Gamma-Ray Blazars**]()
-  X. Rodrigues, V. S. Paliya, S. Garrappa, A. Omeliukh, A. Franckowiak, W. Winter (2024)
-  [*Astron. Astrophys.* 681, A119](https://www.aanda.org/articles/aa/full_html/2024/01/aa47540-23/aa47540-23.html)
+- [**Leptohadronic Multi-Messenger Modeling of 324 Gamma-Ray Blazars**](https://arxiv.org/abs/2307.13024). **X. Rodrigues**, V. S. Paliya, S. Garrappa, A. Omeliukh, A. Franckowiak, W. Winter (2024) [*Astron. Astrophys.* 681, A119](https://www.aanda.org/articles/aa/full_html/2024/01/aa47540-23/aa47540-23.html)
 
-- [**Possible jet contribution to the γ-ray luminosity in NGC 1068**](https://arxiv.org/pdf/2310.20629)
-  S. Salvatore, B. Eichmann, X. Rodrigues, R.-J. Dettmar, J. Becker Tjus (2024)
-  [*Astron. Astrophys.* 687, A139](https://www.aanda.org/articles/aa/full_html/2024/07/aa48447-23/aa48447-23.html)
+- [**Possible jet contribution to the γ-ray luminosity in NGC 1068**](https://arxiv.org/pdf/2310.20629).  S. Salvatore, B. Eichmann, **X. Rodrigues**, R.-J. Dettmar, J. Becker Tjus (2024) [*Astron. Astrophys.* 687, A139](https://www.aanda.org/articles/aa/full_html/2024/07/aa48447-23/aa48447-23.html)
 
-- [**Differences between PAO and TA spectra: Systematics or indication of a local astrophysical source?**](https://arxiv.org/pdf/2208.12274)
-  P. Plotko, A. van Vliet, X. Rodrigues, W. Winter (2023)
-  [*Astrophys. J.* 953 2, 129](https://doi.org/10.3847/1538-4357/acdf59) 
+- [**Differences between PAO and TA spectra: Systematics or indication of a local astrophysical source?**](https://arxiv.org/pdf/2208.12274) P. Plotko, A. van Vliet, **X. Rodrigues**, W. Winter (2023) [*Astrophys. J.* 953 2, 129](https://doi.org/10.3847/1538-4357/acdf59) 
 
-- [**Multiwavelength and Neutrino Emission from Blazar PKS 1502+106**](https://arxiv.org/pdf/2009.04026)
-  X. Rodrigues, S. Garrappa, S. Gao, V. Paliya, A. Franckowiak, W. Winter (2021)
-  [*Astrophys. J.* 912, 54](https://iopscience.iop.org/article/10.3847/1538-4357/abe87b)
+- [**Multiwavelength and Neutrino Emission from Blazar PKS 1502+106**](https://arxiv.org/pdf/2009.04026). **X. Rodrigues**, S. Garrappa, S. Gao, V. Paliya, A. Franckowiak, W. Winter (2021) [*Astrophys. J.* 912, 54](https://iopscience.iop.org/article/10.3847/1538-4357/abe87b)
 
-- [**Active Galactic Nuclei as the Origin of Ultrahigh-Energy Cosmic Rays**](https://arxiv.org/pdf/2003.08392)  
-  X. Rodrigues, J. Heinze, A. Palladino, A. van Vliet, W. Winter (2021)
+- [**Active Galactic Nuclei as the Origin of Ultrahigh-Energy Cosmic Rays**](https://arxiv.org/pdf/2003.08392). **X. Rodrigues**, J. Heinze, A. Palladino, A. van Vliet, W. Winter (2021)
   [*Phys. Rev. Lett.* 126, 191101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.191101)
 
-- [**Leptohadronic Blazar Models Applied to the 2014–15 Flare of TXS 0506+056**](https://arxiv.org/pdf/1812.05939)
-  X. Rodrigues, S. Gao, A. Fedynitch, A. Palladino, W. Winter (2019)
-  [*Astrophys. J. Lett.* 874, L29](https://iopscience.iop.org/article/10.3847/2041-8213/ab1267)
+- [**Leptohadronic Blazar Models Applied to the 2014–15 Flare of TXS 0506+056**](https://arxiv.org/pdf/1812.05939). **X. Rodrigues**, S. Gao, A. Fedynitch, A. Palladino, W. Winter (2019) [*Astrophys. J. Lett.* 874, L29](https://iopscience.iop.org/article/10.3847/2041-8213/ab1267)
 
-- [**Binary neutron star merger remnants as sources of cosmic rays below the “Ankle”**](https://arxiv.org/pdf/1806.01624)
-  X. Rodrigues, D. Biehl, D. Boncioli, A. M. Taylor (2019)
-  [*Astropart. Phys.* 106](https://inspirehep.net/files/7c1627977da6ac224201b6491d0d1c9c)
+- [**Binary neutron star merger remnants as sources of cosmic rays below the “Ankle”**](https://arxiv.org/pdf/1806.01624). **X. Rodrigues**, D. Biehl, D. Boncioli, A. M. Taylor (2019) [*Astropart. Phys.* 106](https://inspirehep.net/files/7c1627977da6ac224201b6491d0d1c9c)
   
-- [**Interpretation of the Diffuse Astrophysical Neutrino Flux in Terms of the Blazar Sequence**](https://arxiv.org/pdf/1806.04769)
-  A. Palladino, X. Rodrigues, S. Gao, W. Winter (2019)
-  [*Astrophys. J.* 871, 41](https://iopscience.iop.org/article/10.3847/1538-4357/aaf507)
+- [**Interpretation of the Diffuse Astrophysical Neutrino Flux in Terms of the Blazar Sequence**](https://arxiv.org/pdf/1806.04769). A. Palladino, **X. Rodrigues**, S. Gao, W. Winter (2019) [*Astrophys. J.* 871, 41](https://iopscience.iop.org/article/10.3847/1538-4357/aaf507)
 
+
+- [**Neutrinos and Ultra-High-Energy Cosmic-Ray Nuclei from Blazars**](https://arxiv.org/pdf/1711.02091). **X. Rodrigues**, A. Fedynitch, S. Gao, D. Boncioli, W. Winter (2018) [*Astrophys. J.* 854, 54](https://iopscience.iop.org/article/10.3847/1538-4357/aaa7ee)
+  
+### Publications with large collaborations in international refereed journals
+
+- [**KM3NeT/ARCA stacking search for high-energy neutrino point sources: the case of ultra-luminous infrared galaxies and blazars**](https://arxiv.org/abs/2608.06163). KM3NeT Collaboration (2026) [arxiv:2609.03609](https://arxiv.org/abs/2608.06163) (submitted)
+
+- [**Search for an all-sky and a Galactic Ridge diffuse neutrino emission with the first 2 years of KM3NeT/ARCA data**](https://arxiv.org/abs/2609.03609). KM3NeT Collaboration (2026) [arxiv:2609.03609](https://arxiv.org/abs/2609.03609) (submitted)
+
+- [**Time-dependent modelling of short-term variability in the TeV-blazar VER J0521+211 during the major flare in 2020**](https://arxiv.org/pdf/2412.15836). MAGIC Collaboration (2025) [*Astron. Astrophys.* 694, A308](https://doi.org/10.1051/0004-6361/202451378)
+  
 - [**Probing the Magnetic Field in the GW170817 Outflow Using H.E.S.S. Observations**](https://arxiv.org/pdf/2004.10105)  
-  H.E.S.S. Collaboration & X. Rodrigues (2020)
+  H.E.S.S. Collaboration and **X. Rodrigues** (2020)
   [*Astrophys. J. Lett.* 894, L16](https://iopscience.iop.org/article/10.3847/2041-8213/ab8b59) 
-
-- [**Neutrinos and Ultra-High-Energy Cosmic-Ray Nuclei from Blazars**](https://arxiv.org/pdf/1711.02091)
-  X. Rodrigues, A. Fedynitch, S. Gao, D. Boncioli, W. Winter (2018)
-  [*Astrophys. J.* 854, 54](https://iopscience.iop.org/article/10.3847/1538-4357/aaa7ee)
-  
 
 ### Publications in international conference proceedings
 
-- [**Modeling a large AGN sample to unveil the signatures of neutrino emission**](https://inspirehep.net/files/a2340481f6681d2f3bab89678f782083)
-X. Rodrigues (2023)
-Published in: [PoS ICRC2023 1544](https://doi.org/10.22323/1.444.1544) • Contribution to ICRC 2023 (Nagoya, Japan)
+- [**Modeling a large AGN sample to unveil the signatures of neutrino emission**](https://inspirehep.net/files/a2340481f6681d2f3bab89678f782083).
+**X. Rodrigues** (2023) Published in: [PoS ICRC2023 1544](https://doi.org/10.22323/1.444.1544) • Contribution to ICRC 2023 (Nagoya, Japan)
 
-- [**Differences between PAO and TA spectra: Systematics or indication of a local astrophysical source?**](https://inspirehep.net/files/975e38b0e31d283a0c920d9657b7aa6d)
-P. Plotko, A. van Vliet, X. Rodrigues, W. Winter (2023)
-Published in: [PoS ICRC2023 229](https://doi.org/10.22323/1.444.0229) • Contribution to ICRC 2023 (Nagoya, Japan)
+- [**Differences between PAO and TA spectra: Systematics or indication of a local astrophysical source?**](https://inspirehep.net/files/975e38b0e31d283a0c920d9657b7aa6d) P. Plotko, A. van Vliet, **X. Rodrigues**, W. Winter (2023) Published in: [PoS ICRC2023 229](https://doi.org/10.22323/1.444.0229) • Contribution to ICRC 2023 (Nagoya, Japan)
 
-- [**Interpreting the activity of blazar PKS 0735+178 with particle interactions in the jet**](https://inspirehep.net/files/d60edaf7bca44f0ad109863a628aff46)
-  A. Omeliukh, X. Rodrigues, S. Garrappa, V. Fallah Ramazani, A. Franckowiak
-  Published in: [PoS ICRC2023 1528](https://doi.org/10.22323/1.444.1528) • Contribution to ICRC 2023 (Nagoya, Japan)
+- [**Interpreting the activity of blazar PKS 0735+178 with particle interactions in the jet**](https://inspirehep.net/files/d60edaf7bca44f0ad109863a628aff46).  A. Omeliukh, **X. Rodrigues**, S. Garrappa, V. Fallah Ramazani, A. Franckowiak (2023) Published in: [PoS ICRC2023 1528](https://doi.org/10.22323/1.444.1528) • Contribution to ICRC 2023 (Nagoya, Japan)
 
+- [**Leptonic and lepto-hadronic time-dependent spectral modeling of VER J0521+211 during the large outburst of February-March 2020**](https://inspirehep.net/files/254169f0443831d923a1a83c1acf31a1).
+MAGIC Collaboration (2023) Published in: [PoS ICRC2023 1492](https://doi.org/10.22323/1.444.1492) • Contribution to ICRC 2023 (Nagoya, Japan)
 
-- [**Leptonic and lepto-hadronic time-dependent spectral modeling of VER J0521+211 during the large outburst of February-March 2020**](https://inspirehep.net/files/254169f0443831d923a1a83c1acf31a1)
-MAGIC Collaboration (Hyuga Abe et al., 2023)
-Published in: [PoS ICRC2023 1492](https://doi.org/10.22323/1.444.1492) • Contribution to ICRC 2023 (Nagoya, Japan)
+- [**The Blazar Hadronic Code Comparison Project**](https://arxiv.org/pdf/2107.06377). M. Cerruti et al. (2021) Published in: [PoS ICRC2021 979](https://doi.org/10.22323/1.395.0979) • Contribution to: ICRC 2021 (Online)
 
-- [**The Blazar Hadronic Code Comparison Project**](https://arxiv.org/pdf/2107.06377)
-M. Cerruti et al. (2021)
-Published in: [PoS ICRC2021 979](https://doi.org/10.22323/1.395.0979) • Contribution to: ICRC 2021 (Online)
+- [**Neutrinos and UHECR nuclei from blazars: from a single-source model to a population study**](https://inspirehep.net/files/ecb58c0d5f1952a9413af14f6d37c76a). **X. Rodrigues**, A. Fedynitch, S. Gao, A. Palladino, D. Boncioli (2019) Published in: [PoS ICRC2019 991](https://doi.org/10.22323/1.358.0991) • Contribution to ICRC 2019 (Madison WI, USA)
 
-- [**Neutrinos and UHECR nuclei from blazars: from a single-source model to a population study**](https://inspirehep.net/files/ecb58c0d5f1952a9413af14f6d37c76a)
-X. Rodrigues, A. Fedynitch, S. Gao, A. Palladino, D. Boncioli
-Published in: [PoS ICRC2019 991](https://doi.org/10.22323/1.358.0991) • Contribution to ICRC 2019 (Madison WI, USA)
-
-- [**Multi-messenger interpretation of the neutrinos from TXS 0506+056**](https://arxiv.org/pdf/1909.06289)
-W. Winter, S. Gao, X. Rodrigues, A. Fedynitch, A. Palladino et al. (2019)
-Published in: [PoS ICRC2019 1032](https://doi.org/10.22323/1.358.1032) • Contribution to: ICRC 2019 (Madison WI, USA)
+- [**Multi-messenger interpretation of the neutrinos from TXS 0506+056**](https://arxiv.org/pdf/1909.06289). W. Winter, S. Gao, **X. Rodrigues**, A. Fedynitch, A. Palladino et al. (2019) Published in: [PoS ICRC2019 1032](https://doi.org/10.22323/1.358.1032) • Contribution to: ICRC 2019 (Madison WI, USA)
   

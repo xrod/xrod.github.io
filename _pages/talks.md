@@ -9,6 +9,13 @@ author_profile: true
 
 ### Invited plenary talks at international conferences
 
+- **15 Sep 2026 - Illuminating the Active Universe, ESO, Garching, Germany**  
+  [*Uniting optical, gamma-ray, and neutrino data a decade after the first neutrino blazar*](https://indico.global/event/17292/contributions/164853/attachments/76334/148117/rodrigues_padovani_slides.pdf)
+
+
+- **16 Jun 2026 - Active Galactic Nuclei as Dark Sector Laboratories, Trieste, Italy**  
+  [*AGN modeling: challenges and prospects*](https://harvard-neutrinos.rc.fas.harvard.edu/event/33/contributions/495/attachments/173/218/xavier-rodrigues-trieste-slides.pdf)  
+
 - **5 Feb 2026 - Bridge Quantum Gravity Workshop (BridgeQG), Annecy, France**  
   [*Developments and challenges in neutrino source modeling*](https://indico.in2p3.fr/event/37528/contributions/168621/attachments/99610/153910/Rodrigues_QG_Annecy.pdf)
  
