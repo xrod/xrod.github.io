@@ -18,7 +18,7 @@ You can find all my articles on my [Scholar profile](https://scholar.google.com/
 - [**Hillas meets Eddington: the case for blazars as ultra-high-energy neutrino sources**](https://arxiv.org/pdf/2508.18345). **X. Rodrigues**, F. M. Rieger, A. Bohdan, P. Padovani (2026)
   [*Astron. Astrophys.* 706, A351](https://www.aanda.org/articles/aa/full_html/2026/02/aa56986-25/aa56986-25.html)
 
-- [**A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei**](https://arxiv.org/pdf/2411.14218). Cerruti et al (2026) [*Astrophys.J.Suppl.* 282 1, 22](https://iopscience.iop.org/article/10.3847/1538-4365/ae1d5f)
+- [**A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei**](https://arxiv.org/pdf/2411.14218). M. Cerruti et al.(2026) [*Astrophys.J.Suppl.* 282 1, 22](https://iopscience.iop.org/article/10.3847/1538-4365/ae1d5f)
 
 - [**The Spectra of IceCube Neutrino Candidate Sources V: Modeling and interpretation of multiwavelength and neutrino data**](https://arxiv.org/pdf/2406.06667).  **X. Rodrigues**, M. Karl, P. Padovani, P. Giommi, S. Paiano, R. Falomo, M. Petropoulou, F. Oikonomou (2024) [*Astron. Astrophys.* 689, A147](https://www.aanda.org/articles/aa/full_html/2024/09/aa50592-24/aa50592-24.html)
 
