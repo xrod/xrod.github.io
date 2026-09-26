@@ -16,7 +16,7 @@ and a visiting researcher at [DESY](https://desy.de/), the German Electron Synch
 Previous experience
 ======
 
-* **Apr-May 2025-** – Visiting scientist at the National Cheng-Kung University (NCKU) in Tainan, Taiwan  
+* **Apr-May 2025** – Visiting scientist at the National Cheng-Kung University (NCKU) in Tainan, Taiwan  
   National Science and Technology Council of Taiwan Grant 113-2111-M-006-002
   
 * **2023-2025** – Postdoc at the [European Southen Observatory](https://www.eso.org/sci/meetings/2024/SummerResearch2024.html) in Garching by Munich, Germany with [Paolo Padovani](https://www.eso.org/~ppadovan/padovani.html) 
